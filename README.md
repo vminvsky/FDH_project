@@ -57,3 +57,8 @@ isabella.dilenardo@epfl.ch
 paul.guhennec@epfl.ch
 
 plot connections of families/places
+
+### Venia's questions
+why is partialOwnerText empty sometimes? 
+do we know who is renting the land? 
+sometimes names are not capitalized - ex. Violin Paolo e Antonio fratelli indivisi
