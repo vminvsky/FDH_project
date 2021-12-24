@@ -57,3 +57,12 @@ isabella.dilenardo@epfl.ch
 paul.guhennec@epfl.ch
 
 plot connections of families/places
+
+### Venia's questions
+why is partialOwnerText empty sometimes? 
+do we know who is renting the land? 
+sometimes names are not capitalized - ex. Violin Paolo e Antonio fratelli indivisi
+
+Explore why type of property changed when ownership stayed the same... Did the owner convert it from housing to shop for a reason? 
+which properties were nationalized 11872 
+where were owners changed (need to look at the
